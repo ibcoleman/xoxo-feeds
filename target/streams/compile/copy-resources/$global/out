@@ -1,0 +1,4 @@
+[debug] Copy resource mappings: 
+[debug] 	(C:\Users\icoleman\Projects\scala\xoxo-feeds\src\main\resources\logback.xml,C:\Users\icoleman\Projects\scala\xoxo-feeds\target\scala-2.10\classes\logback.xml)
+[debug] 	(C:\Users\icoleman\Projects\scala\xoxo-feeds\src\main\resources\props,C:\Users\icoleman\Projects\scala\xoxo-feeds\target\scala-2.10\classes\props)
+[debug] 	(C:\Users\icoleman\Projects\scala\xoxo-feeds\src\main\resources\props\default.props,C:\Users\icoleman\Projects\scala\xoxo-feeds\target\scala-2.10\classes\props\default.props)

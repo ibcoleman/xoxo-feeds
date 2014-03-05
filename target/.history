@@ -1,0 +1,6 @@
+gen-idea
+container:start
+exit
+container:start
+last container:start
+container:start
