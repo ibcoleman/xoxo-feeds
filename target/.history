@@ -4,3 +4,9 @@ exit
 container:start
 last container:start
 container:start
+container:stop
+exit
+container:start
+exci
+exit
+container:start
